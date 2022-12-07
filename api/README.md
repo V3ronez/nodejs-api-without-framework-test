@@ -32,6 +32,7 @@ Access our [**exclusive telegram channel**](https://bit.ly/ErickWendelContentHub
         - [ ] it should test the endpoint for deleting heroes' data
         - [ ] it should test when the application throws an error
 
+
 ### Notes
 - Should you have some difficulties solving the problems, please comment on the [**Youtube video**](https://youtu.be/xR4D2bp8_S0)
 
